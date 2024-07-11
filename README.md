@@ -1,7 +1,3 @@
-Sure, here's the updated README to match your styling:
-
----
-
 # LoveGPT (Under Early Development)
 
 Love is about the details. By tracking her likes, dislikes, desires, important dates, and other personal facts, you can provide true love like never seen before. The most important thing men fail to do is get data and understand how she feels. With technology, its possible to love like never before.
