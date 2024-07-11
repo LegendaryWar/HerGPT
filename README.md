@@ -7,7 +7,7 @@ Love is about the details. By tracking her likes, dislikes, desires, important d
 - **Likes and Dislikes Table**: Keep a record of her likes and dislikes to help you plan thoughtful surprises, gifts, and activities. Keep track of what her family likes and dislikes aswell.
 - **Facts Table**: Store interesting and important facts about her. These can be fundamental truths that are not a like or a dislike
 - **Important Dates Table**: Never forget an important date again by keeping track of anniversaries, birthdays, and other significant events.
-- **Daily Dairy**: A daily Dairy so that the above 3 things can be automatically extracted from it in the future!
+- **Daily Logs**: A daily log so that the above 3 things can be automatically extracted from it in the future!
 
 ## Planned Data Structure
 
@@ -31,7 +31,7 @@ Love is about the details. By tracking her likes, dislikes, desires, important d
 | date        | Date    | Important date          |
 | description | String  | Description of the event|
 
-### Daily Dairy Table
+### Daily Logs Table
 | Column      | Type    | Description             |
 |-------------|---------|-------------------------|
 | id          | Integer | Primary Key             |
@@ -40,7 +40,7 @@ Love is about the details. By tracking her likes, dislikes, desires, important d
 
 ## Planned Tools
 The above data can be used
-- Dairy populator -- Automatically populate the 3 tables based on a daily dairy entry, increasing effort to reward ratio.
+- Logs populator -- Automatically populate the 3 tables based on a daily log entry, increasing effort to reward ratio.
 - Gift Generator -- Generate gifts for her and her family based on recent events, like and dislikes.
 
 
